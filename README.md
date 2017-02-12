@@ -1,2 +1,3 @@
 # Awesome-Config
-# My Current Awesome Config
+
+My Current Awesome Config
